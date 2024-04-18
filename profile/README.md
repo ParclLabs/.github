@@ -1,4 +1,4 @@
-![Logo](img/parcllabs.jpg)
+![Logo](profile/img/parcllabs.jpg)
 
 # Welcome to Parcl Labs
 
