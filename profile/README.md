@@ -2,7 +2,7 @@
 
 # Welcome to Parcl Labs
 
-Join us in rebuilding the worlds understanding of housing. We are a team of data scientists, engineers, and designers working to create a new standard for housing data.
+Join us in rebuilding the world's understanding of housing. We are a team of data scientists, engineers, and designers working to create a new standard for housing data.
 
 We have spent years rebuilding housing data. The foundation is set and we need your help to build the new standard in housing AI, data, and analytics.
 
