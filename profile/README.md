@@ -1,9 +1,9 @@
-![Logo](profile/img/parcllabs.jpg)
+![Logo](img/labs.png)
 
-# Welcome to Parcl Labs
+# Welcome to Parcl Labs 🧪
 
-Join us in rebuilding the world's understanding of housing. We are a team of data scientists, engineers, and designers working to create a new standard for housing data.
+**We're on a mission to create the world's best API developer experience and community for housing data.**
 
-We have spent years rebuilding housing data. The foundation is set and we need your help to build the new standard in housing AI, data, and analytics.
+We've spent years rebuilding the foundations of housing data. Now, we need your help to lead the way in housing AI, data, and analytics.
 
-It's time for a more transparent, efficient, and equitable housing market. We are looking for talented individuals to join us in this mission.
+It's time for a more transparent, efficient, and data-driven housing market. Let's build it together.
