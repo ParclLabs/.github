@@ -1,4 +1,4 @@
-![Logo](img/labs.png)
+![Logo](img/labs.jpg)
 
 # Welcome to Parcl Labs 🧪
 
